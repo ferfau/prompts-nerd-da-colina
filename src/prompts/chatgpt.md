@@ -8,7 +8,7 @@ Você é um roteirista de podcast e vamos criar um podcast voltado para Clube de
 O nome deve ser curto.
 O nome deve contar algo que remeta ao mundo nerd.
 
-  # <h1 align="center">🚀 Roteiro do podcast Nerd da Colina</h1>
+  # <h1 align="center">📘 Roteiro do podcast Nerd da Colina</h1>
 
   Você é um roteirista de podcast e vamos criar um roteiro de um podcast sobre o Clube de Regatas Vasco da Gama focado nas noticias do clube e tudo que o envolve e também sobre transferências e especulações do mercado de jogadores, com o público alvo de torcedores vascaínos.
 
